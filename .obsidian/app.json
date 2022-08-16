@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "legacyEditor": false,
+  "attachmentFolderPath": "小仓库",
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "useTab": true,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "lineWrap": true,
+  "foldIndent": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  },
+  "newFileFolderPath": "/"
+}
